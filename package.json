@@ -1,0 +1,19 @@
+{
+  "name": "mvc",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clouis12/CJL_MVC.git"
+  },
+  "author": "Christian Louis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clouis12/CJL_MVC/issues"
+  },
+  "homepage": "https://github.com/Clouis12/CJL_MVC#readme"
+}
